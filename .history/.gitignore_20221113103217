@@ -3,9 +3,9 @@
 # Get latest from https://github.com/github/gitignore/blob/master/Unity.gitignore
 #
 $ git config --global http.sslBackend "openssl"
+git config --global --unset http.proxy
 $ git config --global http.sslCAInfo [path to .pem file]
 git config --global http.sslVerify "false"
-git config --global --unset http.proxy
 ————————————————
 /[Ll]ibrary/
 /[Tt]emp/

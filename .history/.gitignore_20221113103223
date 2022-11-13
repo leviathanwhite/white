@@ -5,7 +5,6 @@
 $ git config --global http.sslBackend "openssl"
 $ git config --global http.sslCAInfo [path to .pem file]
 git config --global http.sslVerify "false"
-git config --global --unset http.proxy
 ————————————————
 /[Ll]ibrary/
 /[Tt]emp/
