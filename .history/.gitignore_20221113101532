@@ -5,6 +5,7 @@
 $ git config --global http.sslBackend "openssl"
 $ git config --global http.sslCAInfo [path to .pem file]
 ————————————————
+
 /[Ll]ibrary/
 /[Tt]emp/
 /[Oo]bj/
